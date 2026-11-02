@@ -2,8 +2,11 @@
   "issue_number": "#5",
   "issue_title": "Emerald Dream",
   "full_title": "Issue #5 – Emerald Dream",
+  "pass_numbers": "#5–8",
+
   "cover_url": "https://img.mailinblue.com/8882351/images/content_library/original/6ad755dfb9813a3021f2a8f3.jpg",
   "banner_url": "https://img.mailinblue.com/8882351/images/content_library/original/6ae6441a5faa60e5c744dccb.jpeg",
+
   "ref_pre_launch_page": "",
   "ref_launch_announcement": "",
   "ref_launch": "",
@@ -13,5 +16,11 @@
   "ref_late_pledge": "https://www.kickstarter.com/projects/huntedbynight/huntedbynight-magazine-issue-5-emerald-dream?ref=f4gss6",
   "ref_official_store_release": "https://huntedbynight.com/issue-5-emerald-dream",
 
-  "prelaunch_intro": "The forest has its secrets. Emerald Dream is one of them."
+  "prelaunch_intro": "The forest has its secrets. Emerald Dream is one of them.",
+  "launch_intro": "",
+  "launch_feedback_intro": "",
+  "mid_campaign_intro": "",
+  "final_24h_intro": "",
+  "late_pledge_intro": "",
+  "official_store_release_intro": ""
 }
